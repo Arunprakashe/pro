@@ -14,11 +14,4 @@
  
   </test> 
   
-  <test name="Tc-7">
-  <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="com.crm.vtiger.leads.Tc_7_Test"/>
-    </classes>
- 
-</test>
-</suite>
+ </suite>
